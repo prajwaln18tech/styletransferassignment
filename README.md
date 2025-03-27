@@ -8,8 +8,8 @@ This project implements **Style Transfer** using PyTorch, inspired by the semina
 main/
 ├── Style_Transfer_Exercise_prajwal_narayanaswamy.ipynb           # Python script for neural style transfer
 ├── Style_Transfer_Exercise_prajwal_narayanaswamy.pdf    # Final report summarizing implementation and experiments
-├── content.jpg              # Input content image
-├── style.jpg                # Input style image
+├── contentimg.jpg              # Input content image
+├── styleimg.jpg                # Input style image
 ```
 
 ## 🚀 How It Works
